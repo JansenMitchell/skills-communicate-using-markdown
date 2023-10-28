@@ -7,3 +7,7 @@ def mantra():
 
 mantra()
 ```
+## Preparation Tasks for Meditation
+- [ ] Find a comfortable seat.
+- [ ] Relax eyelids.
+- [ ] Repeat mantra for up to 20 mins.
